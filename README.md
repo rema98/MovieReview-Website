@@ -4,7 +4,7 @@
 
 > Movies Reviewed by people, for people
 
-MoviewReview is a movie review website which is focussed on various aspects of films and help people find the best film to watch next.
+Film Critique is a movie review website which is focussed on various aspects of films and help people find the best film to watch next.
 
 ## How To Use?
 
